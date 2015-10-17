@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Setting proper permissions..."
+
+echo "Done! Enjoy CustomSpotlightAction."

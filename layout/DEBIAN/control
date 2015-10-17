@@ -1,0 +1,10 @@
+Package: com.hucent.customspotlightaction
+Name: CustomSpotlightAction
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: Custom your search action on your spotlight
+Maintainer: hucent
+Author: hucent
+Section: Tweaks
+Installed-Size: 16

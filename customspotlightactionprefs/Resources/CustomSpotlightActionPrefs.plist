@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>CustomSpotlightActionPrefs.png</string>
+		<key>label</key>
+		<string>Custom Spotlight Action</string>
+	</dict>
+	<key>items</key>
+	<array>
+	        <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>title</key>
+            <string></string>
+            <key>footerText</key>
+            <string>Click "+" to add new action</string>
+        </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Ignore case</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>mobi.hucent.customspotlightaction</string>
+			<key>key</key>
+			<string>CSAIgnoreCase</string>
+			<key>set</key>
+			<string>setCSAIgnoreCase:specifier:</string>
+
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+        <dict>
+			<key>action</key>
+			<string>showDonationPage:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Donate via PayPal</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Custom Spotlight Action</string>
+</dict>
+</plist>

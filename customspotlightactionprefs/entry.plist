@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CustomSpotlightActionPrefs;
+	cell = PSLinkCell;
+	detail = CustomSpotlightActionPrefsListController;
+	icon = CustomSpotlightActionPrefs.png;
+	isController = 1;
+	label = CustomSpotlightActionPrefs;
+    };
+}
