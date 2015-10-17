@@ -1,4 +1,6 @@
 
+## Incompatible to iOS 9, need help to fix it, go to https://github.com/Hucent/CustomSpotlightAction for more infomation.
+
 ## How to use?
 Just type on spotlight
 
@@ -14,4 +16,3 @@ Secondly, type "keyword query" on your spotlight. e.g.  set keyword "G" for url 
 ## Where can you find the URLs.
 You can copy from url from Launch Center Pro and Drafts. Remember to replace [promt] or [[drafts]] to %@
 
-For more info, plz visit hucent.mobi
